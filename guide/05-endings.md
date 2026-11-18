@@ -20,7 +20,7 @@ Complete the checkpoint chapter first, especially Lumble, the two optional duels
 
 The curse restricts tools, Silk skills, normal binding, Eva, deliveries and crest access. These restrictions are temporary, but curing permanently closes Twisted Child on this save. **Do not complete Infestation Operation before seeing this ending.** [Twisted Bud](https://hollowknight.wiki/w/Twisted_Bud), [Cursed Crest](https://hollowknight.wiki/w/Cursed_Crest)
 
-The second Whiteward Choral Commandment can also be obtained in Act 2 using a precise Faydown Cloak jump; Silk Soar is the easier Act 3 route, not a strict requirement. The High Halls Rune Harp, however, is Act 3 exclusive. [Choral Commandment](https://hollowknight.wiki/w/Choral_Commandment), [Weaver Effigy](https://hollowknight.wiki/w/Weaver_Effigy), [Rune Harp](https://hollowknight.wiki/w/Rune_Harp)
+**Leave the second Whiteward Choral Commandment for Act 3 with Silk Soar.** It remains available, so it should not delay the endings or your Act 3 transition. The wiki reports an early alternative using a precise Faydown Cloak jump, but this guide does not validate or require that difficult manoeuvre. The High Halls Rune Harp is Act 3 exclusive. The Shellwood Weaver Effigy is accessible after Rite of Rebirth. [Choral Commandment](https://hollowknight.wiki/w/Choral_Commandment), [Weaver Effigy](https://hollowknight.wiki/w/Weaver_Effigy), [Rune Harp](https://hollowknight.wiki/w/Rune_Harp)
 
 ### 3. Cure, Witch Crest and Eva
 - [ ] Visit Yarnaby in Greymoor while cursed and complete Infestation Operation using the Steel Spines.

@@ -19,6 +19,8 @@ After Nyleth plus another Old Heart, or Everbloom, follow Seth through Greymoor,
 [Shrine Guardian Seth](https://hollowknight.wiki/w/Shrine_Guardian_Seth), [Pinstress](https://hollowknight.wiki/w/Pinstress)
 
 ### Hearts, hunts and unique enemies
+Return to eastern Whiteward with Silk Soar for the Choral Commandment in the Silk Siphon area. Use the hidden upper passage near the map machine. This is the recommended collection stage; the reported difficult Faydown Cloak alternative is unnecessary for this route. [Whiteward](https://hollowknight.wiki/w/Whiteward)
+
 - [ ] Gather all four Old Hearts before handing in three for Red Memory if you want the default retained Conjoined Heart.
 - [ ] Complete the chosen Huntress / Runt branch. Incomplete Broodfeast leads to Huntress’s death and Runtfeast; the Longclaw reward is shared, the scenes are not.
 - [ ] Encounter the Far Fields Act 3 Rhinogrund.

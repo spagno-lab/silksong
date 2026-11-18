@@ -14,7 +14,7 @@ Collection names, descriptions, journal requirements and location links are adap
 - [Source revision](https://github.com/Br3zzly/silksong-completionist/tree/7f85ff6146516f913065143c67e3402247557e8c).
 - [Preserved MIT notice](licenses/silksong-completionist.txt).
 
-Local changes include Markdown conversion, checklist presentation, additional encounter checks, and corrections to stage labels and requirements. In particular, Whiteward’s second Choral Commandment is obtainable with Faydown Cloak in Act 2, and the Shellwood Weaver Effigy is accessible after Rite of Rebirth.
+Local changes include Markdown conversion, checklist presentation, additional encounter checks, and route clarifications. Whiteward’s second Choral Commandment is scheduled for Act 3 with Silk Soar; the wiki’s reported precise Faydown Cloak jump is an optional early alternative that this guide does not validate or require. The Shellwood Weaver Effigy is accessible after Rite of Rebirth.
 
 ## Map images
 
