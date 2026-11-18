@@ -1,0 +1,14 @@
+# Bellhome purchases
+
+Use alongside the route and checkpoint chapters. Act labels are reference stages, not a strict acquisition order. Mutually exclusive branches and mode-only entries are planning alternatives. Tick journal entries after completing the required notes, not merely discovering the creature.
+
+- [ ] **Desk** — Act 2 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478203) — Bellhart: Sold by Frey for 380 Rosaries. Allows reviewing Relics and Psalm Cylinders without visiting Relic Seeker Scrounge or Vaultkeeper Cardinius. Combines with the Materium if both are owned.
+- [ ] **Gleamlights** — Act 2 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478203) — Bellhart: Sold by Frey for 320 Rosaries. Adds decorative lighting to brighten the Bellhome interior.
+- [ ] **Bell Lacquer** — Act 2 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478203) — Bellhart: Sold by Frey for 520 Rosaries. Allows Hornet to repaint her Bellhome in different colors: Red, White, Black, Bronze, Blue, or Chrome (replaces White in Steel Soul Mode). This purchase is irreversible once made.
+- [ ] **Personal Spa** — Act 2 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478203) — Bellhart: Sold by Frey for 1100 Rosaries. Installs a spa in the upper area of the Bellhome for regenerating Health and Silk. Adds a platform above the bed for easier access.
+- [ ] **Gramophone** — Act 2 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478203) — Bellhart: Sold by Frey for 490 Rosaries after giving all Psalm Cylinders to Cardinius. Allows playing Psalm Cylinders at the Bellhome. Music continues playing outside the menu and can be heard from nearby.
+- [ ] **Materium** — Act 2 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479119) — Memorium: Found in the upper part of the Memorium. Assemble, and install this device in your Bellhome to track materials found in Pharloom. Combines with the Desk if both are owned.
+- [ ] **Crawbell** — Act 3 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479580) — Greymoor: Found right after collecting the "Craw Memento". It passively generates rosaries and shell shards over time.
+- [ ] **Farsight** — Act 3 · [Map](https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479289) — Abyss (Weavenest Absolom): Found in the upper east passage of the Weavenest. Construct, and install this device in your Bellhome to view empty spots in collection menus and completion percentage.
+
+Data: [Silksong Completionist](https://github.com/Br3zzly/silksong-completionist), revision 7f85ff6146516f913065143c67e3402247557e8c; MIT notice in licenses/silksong-completionist.txt. See Sources and map credits for limitations.

@@ -1,0 +1,15 @@
+{
+  "name": "silksong-completionist-guide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hollow Knight: Silksong — The Completionist’s Field Guide",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "marked": "18.2.1"
+  }
+}
