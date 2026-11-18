@@ -4,8 +4,12 @@
 
 The irreversible choices are curing the Cursed Crest and triggering Snared Silk. The sequence below preserves the compatible endings in a Classic playthrough.
 
+**Before becoming cursed, defeat Lace in her second fight at the Cradle.** Then leave and complete Rite of Rebirth. Twisted Child requires defeating **Grand Mother Silk** while cursed; it does not require fighting Lace while cursed. This preparation lets you use your normal Crest, Tools, Silk Skills and healing for Lace. [Lace](https://hollowknight.wiki/w/Lace), [Cursed Crest](https://hollowknight.wiki/w/Cursed_Crest), [Twisted Child requirements](https://hollowknight.wiki/w/Endings_%28Silksong%29)
+
 ### 1. Finish the Act 2 checks
 Complete the checkpoint chapter first, especially Lumble, the two optional duels, disappearing wishes, deliveries and the second Tyrant. Accepting Silk and Soul already stops the invasion; waiting until the Act 3 transition to check is too late.
+
+- [ ] Complete the Threefold Melody after the earlier duel checks, defeat Lace at the Cradle while uncursed, then leave before fighting Grand Mother Silk. Keep a checkpoint copy after Lace and before Rite of Rebirth.
 
 ### 2. Rite of Rebirth and Twisted Child
 - [ ] Find Twisted Bud in hidden Bilewater, via the concealed upper passage from eastern Whispering Vaults and the descending route.

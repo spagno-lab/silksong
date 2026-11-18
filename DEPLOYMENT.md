@@ -10,4 +10,4 @@ To update the website, edit guide/*.md or site/, run npm ci, npm run build and n
 
 For local use, open docs/index.html or run npm ci followed by npm run serve and visit http://localhost:4173. Use the server for consistent browser-storage behaviour between chapters. Progress is browser-local; use Export progress to back it up.
 
-Validation completed: static build, internal site links, required map assets, 824 unique checkbox identifiers, browser search and checkbox persistence after reload. External map services and every game-data claim are not automatically tested.
+Validation completed: static build, internal site links, required map assets, 827 unique checkbox identifiers, browser search and checkbox persistence after reload. External map services and every game-data claim are not automatically tested.

@@ -30,7 +30,7 @@ Checkboxes are stored in this browser. Export your progress regularly. They do n
 ### Checkpoint copies
 With the game closed, copy the current userN.dat into a dated folder before a major decision. Preserve Restore_PointsN as well if you want its history. Keep earlier copies instead of overwriting them, and account for Steam Cloud when restoring. No save files are included in this repository.
 
-Recommended copies: before Clawline / Cogwork Dancers; before Pilby’s outcome; before the final melody; before Rite of Rebirth; after Twisted Child; before Silk and Soul; before Snared Silk; before Clover Dancers; before Everbloom / the festival; before Lost Lace.
+Recommended copies: before Clawline / Cogwork Dancers; before Pilby’s outcome; before the final melody; after defeating Lace at the Cradle while uncursed and before Rite of Rebirth; after Twisted Child; before Silk and Soul; before Snared Silk; before Clover Dancers; before Everbloom / the festival; before Lost Lace.
 
 ### Scope and evidence
 Prepared on 18 November 2026. The route combines the linked Hollow Knight Wiki references with the MIT-licensed Silksong Completionist location dictionary. Act labels in catalogues are reference stages, not guaranteed minimum requirements. Alternate outcomes are listed together for planning; do not interpret every box as achievable on one save.

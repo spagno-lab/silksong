@@ -12,6 +12,7 @@ These checks protect events that a completed inventory can hide. Follow the deta
 | Architect’s departure | Choose whether to repair Silkshot with him | Buying all stock plus his melody makes him leave |
 | Accepting Silk and Soul | Second Skull Tyrant and Bone Bottom aftermath | Invasion stops appearing |
 | Act 3 | Shakra duel, five disappearing wishes, two courier routes, Huntress branch | NPCs and wishwalls change |
+| Rite of Rebirth | Defeat Lace at the Cradle while uncursed, then leave and save | Recommended preparation: avoid fighting her without Tools, Silk Skills or healing |
 | Infestation Operation cure | Twisted Child ending | Cursed Crest becomes Witch permanently |
 | Snared Silk ending | Twisted Child AND Weaver Queen | Both Act 2 endings become unavailable |
 | Clover Dancers | Palestag | Its encounter closes |
@@ -25,6 +26,13 @@ These checks protect events that a completed inventory can hide. Follow the deta
 - [ ] Shakra’s Trail’s End and duel completed in Act 2.
 - [ ] Silkshot repair chosen, especially if using Twelfth Architect.
 - [ ] Desired early Grindle, Slab and Rhinogrund scenes recorded.
+
+### Before Rite of Rebirth
+
+This is a preparation checkpoint, not a permanent content lockout. Twisted Child requires Grand Mother Silk to be defeated while cursed; Lace can be defeated beforehand.
+
+- [ ] Lace’s second fight at the Cradle won while uncursed; returned to prepare the curse.
+- [ ] Checkpoint copy preserved after Lace and before Rite of Rebirth.
 
 ### Before Silk and Soul / Act 3
 - [ ] Second Skull Tyrant, bench repair and chosen Pilby outcome completed.

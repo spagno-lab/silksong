@@ -40,6 +40,10 @@ The two early courier jobs are replaced by Survivor Camp Supplies in Act 3. They
 
 Whispering Vaults is the Vaultkeeper’s melody, not the Conductor’s. All three form the Threefold Melody used to reach the Cradle. Finish the earlier duel checks before the final one. [Threefold Melody](https://hollowknight.wiki/w/Threefold_Melody)
 
+### Lace before the curse
+
+After completing the melodies and protecting the earlier duels, reach the Cradle and defeat Lace’s second encounter with your normal equipment. Then leave before Grand Mother Silk, keep a checkpoint copy, and complete Rite of Rebirth. Only Grand Mother Silk needs to be fought while cursed for Twisted Child; doing Lace first avoids the curse’s combat restrictions for her fight. Continue with the ending-sequence chapter. [Lace](https://hollowknight.wiki/w/Lace), [Ending requirements](https://hollowknight.wiki/w/Endings_%28Silksong%29)
+
 ### Second Sentinel and Final Audience
 - [ ] Cogheart piece: Choral Chambers bell puzzle, in the tall western route toward the Slab.
 - [ ] Cogheart piece: Whispering Vaults room beneath the stage.
