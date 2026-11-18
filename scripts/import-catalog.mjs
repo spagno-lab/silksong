@@ -14,10 +14,13 @@ for(const [key,title]of Object.entries(categories)){
  let count=0;
  for(let i=0;i<names.length;i++){
   const body=src.slice(names[i].index,names[i+1]?.index??src.length);if(!/\bparsingInfo:/.test(body))continue;
-  const name=names[i][1],act=body.match(/whichAct:\s*(\d+)/)?.[1],map=body.match(/mapLink:\s*"([^"\n]+)"/)?.[1];
+  const name=names[i][1];let act=body.match(/whichAct:\s*(\d+)/)?.[1];const map=body.match(/mapLink:\s*"([^"\n]+)"/)?.[1];
   const detail=body.match(/completionDetails:\s*("(?:\\.|[^"\\])*"|'(?:\\.|[^'\\])*')/s)?.[1];
   let desc=detail?decode(detail.slice(1,-1)).replace(/\s+/g,' ').trim():'';
   if(name==='Magnetite Dice')desc='Blasted Steps, west of the Bellway: win Lumble’s game after he runs out of Rosaries. Play BEFORE Clawline or Cogwork Dancers; later recovery of the tool does not preserve the minigame.';
+  if(name==='Choral Commandment · Whiteward (#2)'){act='2';desc='Whiteward, at the end of the room above the hidden passage: obtainable with a precise Faydown Cloak jump in Act 2; Silk Soar in Act 3 makes access easier, but is not mandatory. [Requirements](https://hollowknight.wiki/w/Choral_Commandment)';}
+  if(name==='Weaver Effigy · Shellwood')desc='Chapel of the Witch, eastern side: accessible immediately after Rite of Rebirth while cursed. Go right from the awakening room, break the vines, and climb the walls above the pool. No Witch Crest, Silk Soar or Act 3 required. [Requirements](https://hollowknight.wiki/w/Weaver_Effigy)';
+  if(name==='Rune Harp · High Halls')desc='Conductor Ballador’s room in High Halls, on his corpse. Exclusive to Act 3. [Requirements](https://hollowknight.wiki/w/Rune_Harp)';
   const mode=/onlyFoundInSteelSoulMode:\s*true/.test(body)||name==='Summoned Saviour'?' · Steel Soul only':/onlyFoundInClassicMode:\s*true/.test(body)?' · Classic only':'';
   const kills=body.match(/killsRequired:\s*(\d+)/)?.[1];
   lines.push(`- [ ] **${name}** — ${act&&act!=='0'?'Act '+act:'Variable stage'}${mode}${kills?' · Notes: '+kills+' required':''}${map?' · [Map]('+map+')':''}${desc?' — '+desc:''}`);count++;

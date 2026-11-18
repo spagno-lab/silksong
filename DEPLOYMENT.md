@@ -10,4 +10,4 @@ See [GitHub Pages availability](https://docs.github.com/en/pages/getting-started
 
 For local use, open docs/index.html or run npm ci followed by npm run serve and visit http://localhost:4173. Use the server for consistent browser-storage behaviour between chapters. Progress is browser-local; use Export progress to back it up.
 
-Validation completed: static build, internal site links, required map assets, 823 unique checkbox identifiers, browser search and checkbox persistence after reload. External map services and every game-data claim are not automatically tested.
+Validation completed: static build, internal site links, required map assets, 824 unique checkbox identifiers, browser search and checkbox persistence after reload. External map services and every game-data claim are not automatically tested.

@@ -10,10 +10,13 @@ Complete the checkpoint chapter first, especially Lumble, the two optional duels
 ### 2. Rite of Rebirth and Twisted Child
 - [ ] Find Twisted Bud in hidden Bilewater, via the concealed upper passage from eastern Whispering Vaults and the descending route.
 - [ ] Take it to Greyroot in Shellwood; complete Rite of the Pollip and Rite of Rebirth to acquire the Cursed Crest.
+- [ ] Pick up the Chapel of the Witch Weaver Effigy after awakening: go right, break the vines, and climb above the pool. This relic is already available in Act 2 while cursed.
 - [ ] While still cursed, defeat Grand Mother Silk for Twisted Child.
 - [ ] After the credits, reload the save in Act 2.
 
 The curse restricts tools, Silk skills, normal binding, Eva, deliveries and crest access. These restrictions are temporary, but curing permanently closes Twisted Child on this save. **Do not complete Infestation Operation before seeing this ending.** [Twisted Bud](https://hollowknight.wiki/w/Twisted_Bud), [Cursed Crest](https://hollowknight.wiki/w/Cursed_Crest)
+
+The second Whiteward Choral Commandment can also be obtained in Act 2 using a precise Faydown Cloak jump; Silk Soar is the easier Act 3 route, not a strict requirement. The High Halls Rune Harp, however, is Act 3 exclusive. [Choral Commandment](https://hollowknight.wiki/w/Choral_Commandment), [Weaver Effigy](https://hollowknight.wiki/w/Weaver_Effigy), [Rune Harp](https://hollowknight.wiki/w/Rune_Harp)
 
 ### 3. Cure, Witch Crest and Eva
 - [ ] Visit Yarnaby in Greymoor while cursed and complete Infestation Operation using the Steel Spines.
