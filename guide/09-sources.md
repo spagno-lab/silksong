@@ -23,7 +23,7 @@ The route’s timing and branch advice uses the Hollow Knight Wiki pages linked 
 
 Reviewed 18 November 2026. Community sources can change and contain mistakes. The catalogue is a planning inventory, not proof that every variant is simultaneously obtainable. No claim is made that the work-in-progress upstream secrets list exhausts every environmental interaction.
 
-### Rights and hosting
+### Rights and full attribution
 This is an unofficial fan guide, unaffiliated with Team Cherry. Game names, artwork and screenshots belong to their respective owners. Third-party maps retain their publishers’ rights and are not covered by the code licence. The original ending diagram and site code are included with this repository.
 
-GitHub Pages from a private organization repository requires GitHub Team or Enterprise. On the Free plan, keep this repository private and use the built site locally until a supported plan or a separately approved hosting arrangement is available. [GitHub Pages availability](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+The repository’s [complete third-party credits](https://github.com/spagno-lab/silksong/blob/main/CREDITS.md) record the upstream authors, source revision, original image URLs, local modifications and preserved licence notices. The guide is publicly hosted on [GitHub Pages](https://spagno-lab.github.io/silksong/).

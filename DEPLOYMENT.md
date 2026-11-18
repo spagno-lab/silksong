@@ -1,12 +1,12 @@
-# Deployment status
+# Deployment
 
-The repository is private: https://github.com/spagno-lab/silksong.
+Website: https://spagno-lab.github.io/silksong/
 
-The static site is built and committed in docs/. On 18 November 2026, GitHub rejected Pages activation with HTTP 422: “Your current plan does not support GitHub Pages for this repository.” The organization uses GitHub Free.
+Public repository: https://github.com/spagno-lab/silksong. Publishing source: main branch, /docs directory, GitHub Pages.
 
-To publish while retaining the private repository, use an eligible organization plan (GitHub Team or Enterprise), then enable Pages from main /docs in repository Settings → Pages. No visibility change has been made, and no public Pages URL is currently active.
+The repository was made public with its owner’s authorization on 18 November 2026. Personal game saves, decoded save data and authentication helpers are not included.
 
-See [GitHub Pages availability](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+To update the website, edit guide/*.md or site/, run npm ci, npm run build and npm run check, then commit and push both sources and generated docs/ files. GitHub Pages deploys the committed output.
 
 For local use, open docs/index.html or run npm ci followed by npm run serve and visit http://localhost:4173. Use the server for consistent browser-storage behaviour between chapters. Progress is browser-local; use Export progress to back it up.
 

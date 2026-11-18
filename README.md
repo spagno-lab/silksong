@@ -13,13 +13,13 @@ The static HTML edition includes full-text search, persistent checklists, per-ch
 
 `npm ci`, then `npm run build` and `npm run check`. Run `npm run serve` and visit http://localhost:4173. Built output is committed under docs/ and needs no server runtime.
 
-For GitHub Pages select main /docs. A private organization repository requires GitHub Team or Enterprise; the repository must remain private unless its owner explicitly changes that requirement.
+Read the published guide at **https://spagno-lab.github.io/silksong/**. This repository is public, and GitHub Pages publishes the committed main /docs directory.
 
 ## Editing
 Edit guide/*.md, rebuild, validate, and commit both sources and docs/. To refresh catalogues, clone the upstream repository at the credited revision and run `node scripts/import-catalog.mjs PATH_TO_UPSTREAM`. Review branch and timing changes manually.
 
 ## Scope and credits
-“Complete” means all compatible content plus explicit planning for exclusive branches. It does not mean every possible outcome fits one save. See [sources and credits](guide/09-sources.md). No personal saves are distributed. Full story spoilers throughout.
+“Complete” means all compatible content plus explicit planning for exclusive branches. It does not mean every possible outcome fits one save. See [full third-party credits](CREDITS.md) and [guide sources](guide/09-sources.md). Original MIT notices are preserved in licenses/. No personal saves are distributed. Full story spoilers throughout.
 
 ## Collection catalogues
 
@@ -47,4 +47,4 @@ Edit guide/*.md, rebuild, validate, and commit both sources and docs/. To refres
 - [Upgrades](guide/catalog-upgrades.md)
 - [Ventrica stations](guide/catalog-ventricaStations.md)
 
-See [deployment status](DEPLOYMENT.md) for the current Pages limitation.
+See [deployment details](DEPLOYMENT.md) for publishing and local preview instructions.
