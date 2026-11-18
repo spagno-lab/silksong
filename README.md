@@ -20,3 +20,31 @@ Edit guide/*.md, rebuild, validate, and commit both sources and docs/. To refres
 
 ## Scope and credits
 “Complete” means all compatible content plus explicit planning for exclusive branches. It does not mean every possible outcome fits one save. See [sources and credits](guide/09-sources.md). No personal saves are distributed. Full story spoilers throughout.
+
+## Collection catalogues
+
+- [Abilities and Silk skills](guide/catalog-abilities.md)
+- [Bellhome purchases](guide/catalog-bellhome.md)
+- [Bellways](guide/catalog-bellways.md)
+- [Bosses and minibosses](guide/catalog-bosses.md)
+- [Craftmetals](guide/catalog-craftmetals.md)
+- [Crests and Eva upgrades](guide/catalog-crests.md)
+- [Fleas](guide/catalog-fleas.md)
+- [Hunter’s Journal](guide/catalog-huntersJournal.md)
+- [Keys](guide/catalog-keys.md)
+- [Maps and mapping supplies](guide/catalog-mappingSupplies.md)
+- [Mask Shards](guide/catalog-maskShards.md)
+- [Materium](guide/catalog-materium.md)
+- [Mementos](guide/catalog-mementos.md)
+- [Memory Lockets](guide/catalog-memoryLockets.md)
+- [Mossberries](guide/catalog-mossberries.md)
+- [Pale Oils](guide/catalog-paleOil.md)
+- [Relics](guide/catalog-relics.md)
+- [Silkeaters](guide/catalog-silkeaters.md)
+- [Spool Fragments](guide/catalog-spoolFragments.md)
+- [Wishes and objectives](guide/catalog-tasks.md)
+- [Tools](guide/catalog-tools.md)
+- [Upgrades](guide/catalog-upgrades.md)
+- [Ventrica stations](guide/catalog-ventricaStations.md)
+
+See [deployment status](DEPLOYMENT.md) for the current Pages limitation.
